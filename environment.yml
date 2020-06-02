@@ -1,0 +1,14 @@
+name: streamlit-try
+channels:
+- conda-forge
+dependencies:
+- python=3.7
+- conda
+- pandas
+- matplotlib
+- numpy
+- scipy
+- scikit-learn
+- pip
+pip:
+ - streamlit
